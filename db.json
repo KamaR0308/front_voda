@@ -1,0 +1,48 @@
+{
+  "location": [
+    {
+      "number": 1,
+      "uuid": "157e06e6-439c-424a-a4f8-1a548345a656",
+      "data": {
+        "id": "5a93662a-cb5a-49ab-81f4-1e14271b69ab",
+        "product": "mhan",
+        "shop": "mhan",
+        "site": "mhan",
+        "floor": "7",
+        "room": "7"
+      }
+    },
+    {
+      "number": 2,
+      "uuid": "73f9aa5b-d75f-4749-b268-ac15e6672de2",
+      "data": {
+        "id": "5a93662a-cb5a-49ab-81f4-1e14271b69ab",
+        "product": "mhan",
+        "shop": "mhan",
+        "site": "mhan",
+        "floor": "7",
+        "room": "7"
+      }
+    }
+  ],
+  "users": [
+    {
+      "number": 1,
+      "uuid": "157e06e6-439c-424a-a4f8-1a548345a656",
+      "data": {
+        "id": "5a93662a-cb5a-49ab-81f4-1e14271b69ab",
+        "product": "mhan",
+        "name": "dwedwed"
+      }
+    },
+    {
+      "number": 2,
+      "uuid": "73f9aa5b-d75f-4749-b268-ac15e6672de2",
+      "data": {
+        "id": "5a93662a-cb5a-49ab-81f4-1e14271b69ab",
+        "product": "mhan",
+        "name": "dwedwed"
+      }
+    }
+  ]
+}
